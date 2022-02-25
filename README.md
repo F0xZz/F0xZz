@@ -21,8 +21,9 @@ Here are some ideas to get you started:
    <img src="https://github-profile-trophy.vercel.app/?username=F0xZz&theme=onedark&row=1&column=7" height="130" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 </div>    
 
-- 🎓 ZUST(master's degree 浙江科技学院 车辆工程)
+- 🎓 ZUST(master's degree 浙江科技学院 车辆工程硕士)
 - 📖 Email: 958828188@qq.com
+- 📖 [CSDN](https://blog.csdn.net/weixin_43936828?spm=1010.2135.3001.5421)
 - 🔭 Computer Vision (检测/识别/跟踪)
 - ❤  Languages: Python | C | C++ 
 - ❤  Frameworks: PyTorch 
