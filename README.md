@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ❤  Languages: Python | C | C++ 
 - ❤  Frameworks: PyTorch 
 - ✨ Engines:TensorRT| NCNN 
-- ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) ,[nn-editor](https://github.com/scarsty/nn-editor)
+- ✨ Contributed: [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) ,[nn-editor](https://github.com/scarsty/nn-editor),[giantpandacv](https://github.com/BBuf/giantpandacv.com)
 
  
 
